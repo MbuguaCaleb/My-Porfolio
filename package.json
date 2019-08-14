@@ -1,0 +1,22 @@
+{
+  "name": "my-porfolio",
+  "version": "1.0.0",
+  "description": "Responisive Porfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss / -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/My-Porfolio.git"
+  },
+  "author": "MbuguaCaleb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MbuguaCaleb/My-Porfolio/issues"
+  },
+  "homepage": "https://github.com/MbuguaCaleb/My-Porfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
