@@ -25,6 +25,8 @@ Overflow hidden helps you to avoid any scroll bars
 
 Wow CSS AND JS ARE POWERFUL
 
+There are also sass for loops
+
 Wow..By MbuguaCaleb
 
 css Transitions are awesome
