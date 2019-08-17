@@ -23,6 +23,10 @@ absolute css property  is used when you wish to specify the exact position
 
 Overflow hidden helps you to avoid any scroll bars
 
+Sass Enables you write functions from CSS
+
+Even the creation of a sticky footer
+
 Wow CSS AND JS ARE POWERFUL
 
 There are also sass for loops
