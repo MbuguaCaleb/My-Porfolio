@@ -52,6 +52,8 @@ You Must  Have a github repository
 (f).gitignore node modules
 
 (g)npm run deploy
+
+Dist or Build Folder is the one that is deployed in Most Cases
 ````
 
 Wow..By MbuguaCaleb
