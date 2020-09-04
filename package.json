@@ -20,7 +20,7 @@
   "readME": "https://github.com/MbuguaCaleb/My-Porfolio#readme",
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {}
 }
